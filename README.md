@@ -49,6 +49,7 @@ Questions addressed include:
 - Power BI
 - Python
 - Excel
+- Power Point
 
 ---
 
